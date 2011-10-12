@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataCrudWP7", "ODataCrudWP7.csproj", "{D22A32B9-43B7-46FF-8FCD-B91482778229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{59AEF7AE-820D-41C0-802F-5186B9296A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22A32B9-43B7-46FF-8FCD-B91482778229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22A32B9-43B7-46FF-8FCD-B91482778229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22A32B9-43B7-46FF-8FCD-B91482778229}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D22A32B9-43B7-46FF-8FCD-B91482778229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22A32B9-43B7-46FF-8FCD-B91482778229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22A32B9-43B7-46FF-8FCD-B91482778229}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{59AEF7AE-820D-41C0-802F-5186B9296A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AEF7AE-820D-41C0-802F-5186B9296A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AEF7AE-820D-41C0-802F-5186B9296A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AEF7AE-820D-41C0-802F-5186B9296A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
